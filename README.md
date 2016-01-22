@@ -1,3 +1,0 @@
-# zipline
-
-Zipline DOCKER
